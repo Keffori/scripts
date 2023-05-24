@@ -1,5 +1,5 @@
 if game.CoreGui.RobloxGui.Modules:FindFirstChild("LuaApp") == nil then
-	print("ApagoJa")
+	print("Infinite-Store discord dsc.gg/keffori/")
 else
 	game.CoreGui.RobloxGui.Modules.LuaApp:Destroy()
 end
